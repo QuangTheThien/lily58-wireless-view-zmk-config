@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: zmk-helpers #für Umlaute
       remote: urob
-      revision: mai
+      revision: main
   self:
     path: config
